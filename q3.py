@@ -1,0 +1,1 @@
+print([i for i in ["kayak", "adana", "yapay", "kek","urfa","hatay"] if i == i[::-1]])
